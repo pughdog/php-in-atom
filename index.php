@@ -8,6 +8,8 @@
 <h4>New h4 heading</h4>
 <h5>New h5 heading<h5>
 <h6>New h6 heading<h6>
+<h100>heading 100</h100>
+<h200>heading 200</200>
 
 <?php
 class Fruit {
