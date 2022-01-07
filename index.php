@@ -3,7 +3,8 @@
 <body>
 
 <h1>My first PHP</h1>
-<h2>Linking to GIT<h2>
+<h2>Linking to GIT</h2>
+<h3>Testing commit</h3>
 
 <?php
 class Fruit {
