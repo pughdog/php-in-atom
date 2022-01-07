@@ -5,6 +5,9 @@
 <h1>My first PHP</h1>
 <h2>Linking to GIT</h2>
 <h3>Testing commit</h3>
+<h4>New h4 heading</h4>
+<h5>New h5 heading<h5>
+<h6>New h6 heading<h6>
 
 <?php
 class Fruit {
